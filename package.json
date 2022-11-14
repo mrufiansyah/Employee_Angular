@@ -1,0 +1,19 @@
+{
+  "name": "employee_angular",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrufiansyah/Employee_Angular.git"
+  },
+  "author": "Maulana Rufiansyah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrufiansyah/Employee_Angular/issues"
+  },
+  "homepage": "https://github.com/mrufiansyah/Employee_Angular#readme"
+}
